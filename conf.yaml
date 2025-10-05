@@ -8,8 +8,8 @@
 #     marge_json_path:  请填写网络地址的json文件，用于合并，不带空格！！！
 spider_settings:
   enable: true
-  json_url: "https://cworld0.com/links.json"
-  article_count: 4
+  json_url: "https://www.shuoer.top/links.json"
+  article_count: 10
   merge_result:
     enable: false
     merge_json_url: "https://fc.liushen.fun"
